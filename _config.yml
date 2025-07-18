@@ -1,0 +1,2 @@
+include:
+  - "*.html"  # 确保所有 HTML 文件被包含
